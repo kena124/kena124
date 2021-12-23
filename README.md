@@ -1,6 +1,6 @@
 - �Hello Kevin,I am kena biratu.I am software engineering student at Addis Ababa Institute of technology(AAiT).
 - 👀 I’m interested in web-development and machine learning.
-- 🌱 I’m currently learning web-development and programing language, like c++,java,phyton,.. 
+- 🌱 I’m currently learning web-development and programing language, like c++,java,phyton,HTML,CSS...
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me
    kenabirtu19@gmail.com
